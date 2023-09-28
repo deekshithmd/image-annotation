@@ -1,5 +1,8 @@
 # Image annotation tool sample
 
+## Techstack used
+ReactJS, Canvas API
+
 ## Steps to run in local
 1. Clone the repo ```https://github.com/deekshithmd/image-annotation.git```
 2. Run  ```yarn install``` or ```npm install```
